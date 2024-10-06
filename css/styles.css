@@ -59,7 +59,7 @@ body.active {
 .no-js #experience-timeline > div h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #000f01;
+  color:  #1f362d;
   display: inline-block;
   margin: 0;
 }
@@ -70,7 +70,7 @@ body.active {
   margin: 0 0 15px 0;
 }
 .no-js #experience-timeline > div p {
-  color: #000f01;
+  color:  #1f362d;
   font-size: 0.9em;
   margin: 0;
 }
@@ -179,7 +179,7 @@ footer {
 }
 .copyright p {
   margin: 0;
-  color: #000f01;
+  color:  #1f362d;
 }
 
 .top {
@@ -196,7 +196,7 @@ footer {
   text-align: center;
 }
 .top i {
-  color: #000f01;
+  color:  #1f362d;
 }
 
 .social {
@@ -213,7 +213,7 @@ footer {
 }
 .social a {
   display: block;
-  color: #000f01;
+  color:  #1f362d;
   padding: 10px;
 }
 .social a:hover {
@@ -367,10 +367,10 @@ footer {
   border-bottom: 1px solid #dcd9d9;
 }
 #about h2 {
-  color: #000f01;
+  color:  #1f362d;
 }
 #about p {
-  color: #000f01;
+  color:  #1f362d;
   margin: 0;
 }
 
@@ -385,7 +385,7 @@ footer {
   border-bottom: 1px solid #dcd9d9;
 }
 #experience h2 {
-  color: #000f01;
+  color:  #1f362d;
 }
 
 #experience-timeline {
@@ -427,7 +427,7 @@ footer {
 .vtimeline-content h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #000f01;
+  color:  #1f362d;
   display: inline-block;
   margin: 0;
 }
@@ -438,7 +438,7 @@ footer {
   margin: 0 0 15px 0;
 }
 .vtimeline-content p {
-  color: #000f01;
+  color:  #1f362d;
   font-size: 0.9em;
   margin: 0;
 }
@@ -488,7 +488,7 @@ footer {
   text-align: center;
 }
 #education h2 {
-  color: #000f01;
+  color:  #1f362d;
   margin-bottom: 50px;
 }
 
@@ -503,14 +503,14 @@ footer {
   font-weight: 500;
   float: left;
   margin: 0;
-  color: #000f01;
+  color:  #1f362d;
 }
 .education-block span {
-  color: #000f01;
+  color:  #1f362d;
   float: right;
 }
 .education-block h4 {
-  color: #000f01;
+  color:  #1f362d;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
@@ -518,7 +518,7 @@ footer {
 .education-block p,
 .education-block ul {
   margin: 0;
-  color: #000f01;
+  color:  #1f362d;
   font-size: 0.9em;
 }
 .education-block ul {
@@ -536,7 +536,7 @@ footer {
   text-align: center;
 }
 #projects h2 {
-  color: #000f01;
+  color:  #1f362d;
   margin-bottom: 50px;
 }
 
@@ -563,11 +563,11 @@ footer {
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #000f01;
+  color:  #1f362d;
   margin: 0 0 15px 0;
 }
 .project-info p {
-  color: #000f01;
+  color:  #1f362d;
   margin: 0 0 15px 0;
   font-size: 0.9em;
 }
@@ -593,7 +593,7 @@ footer {
   text-align: center;
 }
 #skills h2 {
-  color: #000f01;
+  color:  #1f362d;
   margin-bottom: 50px;
 }
 #skills ul {
@@ -606,7 +606,7 @@ footer {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: #000f01;
+  color:  #1f362d;
   background: #e4e4ea;
   list-style: none;
   cursor: default;
@@ -699,7 +699,7 @@ footer {
   border-top: 1px solid #dcd9d9;
 }
 .optional-section h2 {
-  color: #000f01;
+  color:  #1f362d;
 }
 
 .optional-section-block {
@@ -713,10 +713,10 @@ footer {
 .optional-section-block h3 {
   font-weight: 500;
   margin: 0 0 15px 0;
-  color: #000f01;
+  color:  #1f362d;
 }
 .optional-section-block h4 {
-  color: #000f01;
+  color:  #1f362d;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
@@ -724,7 +724,7 @@ footer {
 .optional-section-block p,
 .optional-section-block ul {
   margin: 0 0 15px 0;
-  color: #000f01;
+  color:  #1f362d;
   font-size: 0.9em;
 }
 .optional-section-block ul {
