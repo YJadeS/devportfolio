@@ -59,7 +59,7 @@ body.active {
 .no-js #experience-timeline > div h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #30423c;
+  color: #141a18;
   display: inline-block;
   margin: 0;
 }
@@ -367,7 +367,7 @@ footer {
   border-bottom: 1px solid #dcd9d9;
 }
 #about h2 {
-  color: #30423c;
+  color: #141a18;
 }
 #about p {
   color: #748a81;
@@ -385,7 +385,7 @@ footer {
   border-bottom: 1px solid #dcd9d9;
 }
 #experience h2 {
-  color: #30423c;
+  color: #141a18;
 }
 
 #experience-timeline {
@@ -427,7 +427,7 @@ footer {
 .vtimeline-content h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #30423c;
+  color: #141a18;
   display: inline-block;
   margin: 0;
 }
@@ -488,7 +488,7 @@ footer {
   text-align: center;
 }
 #education h2 {
-  color: #30423c;
+  color: #141a18;
   margin-bottom: 50px;
 }
 
@@ -503,7 +503,7 @@ footer {
   font-weight: 500;
   float: left;
   margin: 0;
-  color: #30423c;
+  color: #141a18;
 }
 .education-block span {
   color: #748a81;
@@ -536,7 +536,7 @@ footer {
   text-align: center;
 }
 #projects h2 {
-  color: #30423c;
+  color: #141a18;
   margin-bottom: 50px;
 }
 
@@ -563,7 +563,7 @@ footer {
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #30423c;
+  color: #141a18;
   margin: 0 0 15px 0;
 }
 .project-info p {
@@ -593,7 +593,7 @@ footer {
   text-align: center;
 }
 #skills h2 {
-  color: #30423c;
+  color: #141a18;
   margin-bottom: 50px;
 }
 #skills ul {
@@ -606,7 +606,7 @@ footer {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: #30423c;
+  color: #141a18;
   background: #e4e4ea;
   list-style: none;
   cursor: default;
@@ -699,7 +699,7 @@ footer {
   border-top: 1px solid #dcd9d9;
 }
 .optional-section h2 {
-  color: #30423c;
+  color: #141a18;
 }
 
 .optional-section-block {
@@ -713,7 +713,7 @@ footer {
 .optional-section-block h3 {
   font-weight: 500;
   margin: 0 0 15px 0;
-  color: #30423c;
+  color: #141a18;
 }
 .optional-section-block h4 {
   color: #748a81;
